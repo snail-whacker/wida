@@ -1014,7 +1014,6 @@ document.addEventListener('DOMContentLoaded', () => {
         link: "https://multiplayer.golf/",
         image: "/assets/media/icons/multiplayer-golf.png",
         categories: ['all'],
-        error: false
       },
       {
         name: "MX3M: Pool Party",
@@ -1448,7 +1447,7 @@ document.addEventListener('DOMContentLoaded', () => {
       link: "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
       image: "/assets/media/icons/retro.webp",
       categories: ["all,", 'sports', 'local'],
-      local: "true",
+      error: false
       },
       {
         name: "Roblox (Now.GG)",
