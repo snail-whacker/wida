@@ -1438,7 +1438,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Retro Bowl",
-      link: "/edu/retro/index.html",
+      link: "/retro/index.html",
       image: "/assets/media/icons/retro.webp",
       categories: ["all,", 'sports', 'local'],
       local: "true",
