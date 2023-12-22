@@ -1445,9 +1445,10 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Retro Bowl",
-      link: "https://game316009.konggames.com/gamez/0031/6009/live/",
+      link: "https://unblocked76.github.io/retro-bowl/",
       image: "/assets/media/icons/retro.webp",
       categories: ["all,", 'sports', 'local'],
+      error: false,
       },
       {
         name: "Roblox (Now.GG)",
