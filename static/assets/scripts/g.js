@@ -1445,7 +1445,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "Retro Bowl",
-      link: "/retro/index.html",
+      link: "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
       image: "/assets/media/icons/retro.webp",
       categories: ["all,", 'sports', 'local'],
       local: "true",
