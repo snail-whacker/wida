@@ -1448,6 +1448,7 @@ document.addEventListener('DOMContentLoaded', () => {
       link: "https://unblocked76.github.io/retro-bowl/",
       image: "/assets/media/icons/retro.webp",
       categories: ["all,", 'sports', 'local'],
+      blank: "true",
       error: false,
       },
       {
