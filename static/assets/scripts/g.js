@@ -1010,6 +1010,13 @@ document.addEventListener('DOMContentLoaded', () => {
         error: false
       },
       {
+        name: "Multiplayer Golf",
+        link: "https://multiplayer.golf/",
+        image: "/assets/media/icons/multiplayer-golf.png",
+        categories: ['all'],
+        error: false
+      },
+      {
         name: "MX3M: Pool Party",
         link: "https://h0jokl1egt0fd4oc8qv3j0tltl9jbqhn-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://649025137-174029463385024710.preview.editmysite.com/uploads/b/139890129-767696982876512205/files/mx3mpp.xml",
         image: "/assets/media/icons/mx3m.webp",
