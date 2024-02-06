@@ -1444,6 +1444,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false,
     },
     {
+      name: "Zelda Majoras Mask",
+      link: "https://emulatorjs-7syv.onrender.com/zelda-majoras-mask.html",
+      image: "/assets/media/icons/majoras.jpg",
+      categories: ['all'],
+      error: false
+    },
+    {
       name: 'GBA Games',
       link: 'https://real-sgs.vercel.app/Tools/GBA-Emulator',
       image: '/assets/media/icons/gba.webp',
