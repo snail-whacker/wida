@@ -1164,6 +1164,13 @@ document.addEventListener('DOMContentLoaded', () => {
       error: false,
     },
     {
+      name: "Phantasy Star 0",
+      link: "https://emulatorjs-7syv.onrender.com/zelda-majoras-mask.html",
+      image: "/assets/media/icons/majoras.jpg",
+      categories: ['all'],
+      error: false
+    },
+    {
       name: 'Pokemon Heart Gold',
       link: 'https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/pokemon-heartgold-version1.zip',
       image: '/assets/media/icons/heartgold.webp',
